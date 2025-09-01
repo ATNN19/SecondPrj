@@ -1,10 +1,10 @@
 package iuh.fit.se;
 
 /**
- * @description: This class represents a rectangle with length and width
- * @author: Nguyen Van A
+ * @description: Lớp này để minh họa lớp Hình chữ nhật có chiều dài và chiều rộng
+ * @author: Truong Quoc Bao
  * @version: 1.0
- * @created: 23-Aug-2025 09:10:00 PM
+ * @created: Sep 1, 2025 12:53:18 PM
  */
 public class Rectangle {
     private double length;

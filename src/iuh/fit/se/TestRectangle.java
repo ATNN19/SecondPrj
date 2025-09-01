@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @description: Lớp Main để minh họa việc sử dụng lớp Hình chữ nhật
- * @author: Bao
+ * @author: Truong Quoc Bao
  * @version: 1.0
  * @created: Sep 1, 2025 12:53:18 PM
  */
